@@ -1,0 +1,24 @@
+{
+  "expo": {
+    "name": "Georak",
+    "slug": "Georak",
+    "privacy": "public",
+    "sdkVersion": "31.0.0",
+    "version": "0.1.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "platforms": ["android"],
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "cover",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": ["./assets/images"],
+    "android": {
+      "package": "com.khan.Georak"
+    }
+}
+}
